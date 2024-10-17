@@ -1,7 +1,7 @@
 
 
 Gleisson Braga
-Desenvolvedor Fullstack ||
+Desenvolvedor Fullstack 
 
 LINKEDIN: https://www.linkedin.com/in/gleisson-braga/
 

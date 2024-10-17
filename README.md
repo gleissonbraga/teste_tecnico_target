@@ -1,7 +1,8 @@
 
 
 Gleisson Braga
-Desenvolvedor Fullstack #
+Desenvolvedor Fullstack ||
+
 LINKEDIN: https://www.linkedin.com/in/gleisson-braga/
 
 Desenvolvedor Fullstack com experiência em criação de aplicações web com foco em Node.js, 
